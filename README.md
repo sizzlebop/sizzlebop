@@ -1,10 +1,8 @@
 "Dream it, Pixel it" | Full Stack Developer at Pink Pixel
 
 ## 🚀 Quick Overview
-- 💻 Specializing in vanilla JavaScript and Python
 - 🎨 Creating clean, efficient, and maintainable solutions
 - 🔍 Focus on performance and optimization
-- 📦 Minimalist approach to dependencies
 
 ## 🤝 Let's Connect
 - 🌐 [pinkpixel.dev](http://pinkpixel.dev)
