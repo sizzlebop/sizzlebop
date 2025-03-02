@@ -3,6 +3,7 @@
 ## 🚀 Quick Overview
 - 🎨 Creating clean, efficient, and maintainable solutions
 - 🔍 Focus on performance and optimization
+- ✨ Preferred languages: Python and Go
 
 ## 🤝 Let's Connect
 - 🌐 [pinkpixel.dev](http://pinkpixel.dev)
