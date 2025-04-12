@@ -1,4 +1,4 @@
-## About me
+## ✨ About me
 - 🩷 Creator of Pink Pixel
 - 💻 Dev, designer, gamer, chaos engineer
 - ⚡ Building cool things with code (and probably breaking them too)
@@ -10,7 +10,8 @@
 - 🌐 [pinkpixel.dev](http://pinkpixel.dev)
 - 💬 Discord: @sizzlebop
 - 📧 admin@pinkpixel.dev
-- ✨ Dream it, Pixel it ✨
+----
+Dream it, Pixel it ✨
 
 <!---
 sizzlebop/sizzlebop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
