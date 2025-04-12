@@ -1,14 +1,15 @@
-"Dream it, Pixel it" | Full Stack Developer at Pink Pixel
+🩷 Creator of Pink Pixel
+💻 Dev, designer, gamer, chaos engineer
+⚡ Building cool things with code (and probably breaking them too)
+🕹️ Retro pixel aesthetic, modern dev energy
+✨ "Cute but lethal — like a bug in production"
 
-## 🚀 Quick Overview
-- 🎨 Creating clean, efficient, and maintainable solutions
-- 🔍 Focus on performance and optimization
-- ✨ Preferred languages: Python and Go
 
-## 🤝 Let's Connect
-- 🌐 [pinkpixel.dev](http://pinkpixel.dev)
-- 💬 Discord: @sizzlebop
-- 📧 admin@pinkpixel.dev
+🩷 Contact
+🌐 [pinkpixel.dev](http://pinkpixel.dev)
+💬 Discord: @sizzlebop
+📧 admin@pinkpixel.dev
+✨ Dream it, Pixel it ✨
 
 <!---
 sizzlebop/sizzlebop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
