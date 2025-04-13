@@ -17,7 +17,6 @@ Proud wifey of [Cloudwerx](https://github.com/cloudwerx-dev) — my other half w
 - ⚙️ AI tools & LLM weirdness
 - 🧠 Memory systems for machines (and humans)
 - 🎨 Retro-fied UI & pixel branding
-- 🏰 Minecraft datapack sorcery
 - 🕹️ Game dev experiments fueled by chaos
 
 ---
