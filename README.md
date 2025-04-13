@@ -12,7 +12,7 @@
 Proud wifey of [Cloudwerx](https://github.com/cloudwerx-dev) — my other half who always out-codes me *and* puts up with my weirdness.
 
 <p align="center">
-  <img src="https://res.cloudinary.com/di7ctlowx/image/upload/v1744513449/pinkpixel_cloudwerx_syybia.png" width="400">
+  <img src="https://res.cloudinary.com/di7ctlowx/image/upload/c_crop,ar_16:9/v1744513449/pinkpixel_cloudwerx_syybia.png" width="400">
 </p>
 
 ---
