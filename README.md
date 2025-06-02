@@ -1,13 +1,13 @@
-## About Me
+<a href="https://www.buymeacoffee.com/pinkpixel" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ## ✨ About me
 - 🩷 Creator of Pink Pixel
-- 💻 Dev, designer, gamer, chaos engineer
+- 💻 Dev, designer, chaos engineer
 - ⚡ Building cool things with code (and probably breaking them too)
 - 🕹️ Retro pixel aesthetic, caffeine fueled focus
-
-<a href="https://www.buymeacoffee.com/pinkpixel" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
+- 👾 AI tools & LLM weirdness
+- 🧠 Memory systems for machines (and humans)
+- 🎨 Modern, dark UI
 
 ## Tech I Like Playing With
 > Node.js • TypeScript • Python • LLMs • Datapacks • Web Magic • Terminal Witchcraft
@@ -17,14 +17,6 @@ Proud wifey of [Cloudwerx](https://github.com/cloudwerx-dev) — my other half w
 <p align="center">
   <img src="https://res.cloudinary.com/di7ctlowx/image/upload/c_crop,ar_16:9/v1744513449/pinkpixel_cloudwerx_syybia.png" width="400">
 </p>
-
----
-
-## What I'm Working On
-- ⚙️ AI tools & LLM weirdness
-- 🧠 Memory systems for machines (and humans)
-- 🎨 Retro-fied UI & pixel branding
-- 🕹️ Game dev experiments fueled by chaos
 
 ---
 
