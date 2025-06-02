@@ -6,6 +6,9 @@
 - ⚡ Building cool things with code (and probably breaking them too)
 - 🕹️ Retro pixel aesthetic, caffeine fueled focus
 
+<a href="https://www.buymeacoffee.com/pinkpixel" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+
 ## Tech I Like Playing With
 > Node.js • TypeScript • Python • LLMs • Datapacks • Web Magic • Terminal Witchcraft
 
