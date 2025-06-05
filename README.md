@@ -4,10 +4,9 @@
 - 🩷 Creator of Pink Pixel
 - 💻 Dev, designer, chaos engineer
 - ⚡ Building cool things with code (and probably breaking them too)
-- 🕹️ Retro pixel aesthetic, caffeine fueled focus
+- ☕ Caffeine fueled focus
 - 👾 AI tools & LLM weirdness
 - 🧠 Memory systems for machines (and humans)
-- 🎨 Modern, dark UI
 
 ## Tech I Like Playing With
 > Node.js • TypeScript • Python • LLMs • Datapacks • Web Magic • Terminal Witchcraft
