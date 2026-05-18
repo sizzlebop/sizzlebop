@@ -30,7 +30,6 @@
 
 ---
 
-<a href="https://github.com/CLOUDPIXEL-LAB" target="_blank"><img src="https://res.cloudinary.com/di7ctlowx/image/upload/c_crop,ar_16:9/v1744513449/pinkpixel_cloudwerx_syybia.png" alt="Ko-fi" style="width: 400px !important;" ></a>
 ## 🪄 Dream it, Pixel it 💖✨
 
 
