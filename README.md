@@ -7,7 +7,7 @@
 - ☕ Caffeine fueled focus
 - 👾 AI experimentation & LLM weirdness
 - I love animals, pixel art, neon, glitter and creating things.
-- 👩‍❤️‍👨 Proud wifey of [Cloudwerx](https://github.com/cloudwerx-dev) ☁️ — my other half who always out-codes me *and* puts up with my weirdness. 
+- 👩‍❤️‍👨 Wifey of [Cloudwerx](https://github.com/cloudwerx-dev) ☁️ — my other half who always out-codes me *and* puts up with my weirdness. 
 
 ## Tech I Like Playing With
 **Node.js • TypeScript • Python • LLMs • Datapacks • Web Magic • Terminal Witchcraft**
@@ -29,10 +29,6 @@
 - 🕹️ Probably experimenting with AI in some kinda way, starting another app that I may or may not finish, or tearing stuff apart to see how it works.
 
 ---
-
-## 🙏 Special Thanks
-
-💖 To [Cloudwerx](https://github.com/cloudwerx-dev) — my favorite dev, my favorite human.
 
 <a href="https://github.com/CLOUDPIXEL-LAB" target="_blank"><img src="https://res.cloudinary.com/di7ctlowx/image/upload/c_crop,ar_16:9/v1744513449/pinkpixel_cloudwerx_syybia.png" alt="Ko-fi" style="width: 400px !important;" ></a>
 ## 🪄 Dream it, Pixel it 💖✨
