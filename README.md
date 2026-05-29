@@ -7,7 +7,6 @@
 - ☕ Caffeine fueled focus
 - 👾 AI experimentation & LLM weirdness
 - I love animals, pixel art, neon, glitter and creating things.
-- 👩‍❤️‍👨 Wifey of [Cloudwerx](https://github.com/cloudwerx-dev) ☁️ — my other half who always out-codes me *and* puts up with my weirdness. 
 
 ## Tech I Like Playing With
 **Node.js • TypeScript • Python • LLMs • Datapacks • Web Magic • Terminal Witchcraft**
