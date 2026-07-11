@@ -1,15 +1,15 @@
 
 # ✨ About me 🦄
 
-- 💖 Creator of Pink Pixel
-- 💻 Dev, designer, chaos engineer
-- ⚡ Building cool things with code (and probably breaking them too)
+- 💖 AKA Pink Pixel
+- 💻 Dev, designer, experimenter, student
+- 🛠️ Building and breaking things for fun
 - ☕ Caffeine fueled focus
 - 👾 AI experimentation & LLM weirdness
-- I love animals, pixel art, neon, glitter and creating things.
+- 🐈‍⬛ I like coding, crocheting, and cats
 
 ## Tech I Like Playing With
-**Node.js • TypeScript • Python • LLMs • Datapacks • Web Magic • Terminal Witchcraft**
+** Rust • Node.js • TypeScript • Go • LLMs • Web Magic • Terminal Witchcraft**
 
 ---
 
@@ -25,7 +25,7 @@
 - 💾 GitHub: [@pinkpixel-dev](https://github.com/pinkpixel-dev)
 - 🌐 Website:  [pinkpixel.dev](http://pinkpixel.dev)
 - 💌 Email: [admin@pinkpixel.dev](mailto:admin@pinkpixel.dev)
-- 🕹️ Probably experimenting with AI in some kinda way, starting another app that I may or may not finish, or tearing stuff apart to see how it works.
+- 🕹️ Probably experimenting, starting another app that I may or may not finish, or tearing stuff apart to see how it works.
 
 ---
 
