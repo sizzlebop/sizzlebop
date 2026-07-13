@@ -8,7 +8,7 @@
 - 🐈‍⬛ I like coding, crocheting, caffeine and cats
 
 ## Tech I Like Playing With
-** Rust • Node.js • TypeScript • Go • LLMs • Web Magic • Terminal Witchcraft**
+** Rust • Node.js • TypeScript • LLMs • Web Magic • Terminal Witchcraft**
 
 ---
 
