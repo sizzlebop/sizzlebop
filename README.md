@@ -4,9 +4,8 @@
 - 💖 AKA Pink Pixel
 - 💻 Dev, designer, experimenter, student
 - 🛠️ Building and breaking things for fun
-- ☕ Caffeine fueled focus
 - 👾 AI experimentation & LLM weirdness
-- 🐈‍⬛ I like coding, crocheting, and cats
+- 🐈‍⬛ I like coding, crocheting, caffeine and cats
 
 ## Tech I Like Playing With
 ** Rust • Node.js • TypeScript • Go • LLMs • Web Magic • Terminal Witchcraft**
