@@ -6,6 +6,7 @@
 - 🛠️ Building and breaking things for fun
 - 👾 AI experimentation & LLM weirdness
 - 🐈‍⬛ I like coding, crocheting, caffeine and cats
+- 🌈 Making code beautiful, one pixel at a time
 
 ## Tech I Like Playing With
 ** Rust • Node.js • TypeScript • LLMs • Web Magic • Terminal Witchcraft**
