@@ -21,12 +21,12 @@ jobs:
 
       - name: Draw skyline
         # Swap -theme for any of: neon, synthwave, matrix, amber, ice, sunset,
-        # toxic, vapor, crimson, mono
+        # toxic, vapor, crimson, mono, prism, rainbow
         env:
           # Optional: add a SKYLINE_TOKEN secret (classic PAT, read:user) to
           # include private contributions. Falls back to the workflow token.
           GITHUB_TOKEN: ${{ secrets.SKYLINE_TOKEN || secrets.GITHUB_TOKEN }}
-        run: go run github.com/pinkpixel-dev/skyline@latest -theme neon -svg skyline.svg "${{ github.repository_owner }}"
+        run: go run github.com/pinkpixel-dev/skyline@latest -theme prism -svg skyline.svg "${{ github.repository_owner }}"
 
       - name: Publish to output branch
         env:
