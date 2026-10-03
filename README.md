@@ -15,10 +15,10 @@
 ---
 
 ## My Favorite Things
-**Coding 👩🏼‍💻 • Crocheting 🧶 • Caffeine ☕️ • Cats 🐈‍⬛**
+**Coding 👩🏼‍💻 • Crocheting 🧶 • Caffeine ☕️ • Cats 🐈‍⬛ • @CLOUDWERX-DEV ☁️**
 
 ## Tech I Like Playing With
-**Rust • Node.js • TypeScript • Go • AI**
+**Rust • Node.js • TypeScript • Go**
 
 ---
 
